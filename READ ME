@@ -12,3 +12,5 @@ E37: No write since last change
 E162: No write since last change for buffer "task.sh"
 
 I sent a screenshot of that to Ethan and he suggested I try a different file name and to restart the vi process with it. I did and got the same pop up but with "task2.sh" (which was what I named my new file).
+
+Referenced:https://www.pluralsight.com/blog/it-ops/linux-file-permissions and https://www.shells.com/l/en-US/tutorial/How-to-Fix-Shell-Script-Permission-Denied-Error-in-Linux
