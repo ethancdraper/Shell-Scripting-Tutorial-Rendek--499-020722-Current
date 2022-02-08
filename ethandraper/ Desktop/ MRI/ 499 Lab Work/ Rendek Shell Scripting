@@ -1,0 +1,13 @@
+Last login: Tue Feb  8 14:15:41 on ttys000
+ethandraper@Ethans-MacBook-Air ~ % chmod +x What Is Scripting 020722.sh
+chmod: What: No such file or directory
+chmod: Is: No such file or directory
+chmod: Scripting: No such file or directory
+chmod: 020722.sh: No such file or directory
+ethandraper@Ethans-MacBook-Air ~ % ./ What Is Scripting 020722.sh
+zsh: permission denied: ./
+ethandraper@Ethans-MacBook-Air ~ % chmod +x WhatIsScripting020722.sh
+chmod: WhatIsScripting020722.sh: No such file or directory
+ethandraper@Ethans-MacBook-Air ~ % ./ WhatIsScripting020722.sh
+zsh: permission denied: ./
+ethandraper@Ethans-MacBook-Air ~ %
