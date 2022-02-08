@@ -10,4 +10,10 @@ ethandraper@Ethans-MacBook-Air ~ % chmod +x WhatIsScripting020722.sh
 chmod: WhatIsScripting020722.sh: No such file or directory
 ethandraper@Ethans-MacBook-Air ~ % ./ WhatIsScripting020722.sh
 zsh: permission denied: ./
-ethandraper@Ethans-MacBook-Air ~ %
+ethandraper@Ethans-MacBook-Air ~ % chmod 777 WhatIsScripting020722.sh
+chmod: WhatIsScripting020722.sh: No such file or directory
+ethandraper@Ethans-MacBook-Air ~ % ./WhatIsScripting
+zsh: no such file or directory: ./WhatIsScripting
+ethandraper@Ethans-MacBook-Air ~ % ./WhatIsScripting020722.sh
+zsh: no such file or directory: ./WhatIsScripting020722.sh
+ethandraper@Ethans-MacBook-Air ~ % 
