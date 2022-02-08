@@ -1,0 +1,14 @@
+This repository will contain information from the following shell scripting tutorial: https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+ Here is a list of common shell commands: https://swcarpentry.github.io/shell-novice/reference.html that may be helpful.
+
+I was working on this after an excruciating day of readings (perhaps mistake number one). Nevertheless, I thought it would be easy enough to follow along a tutorial since this one should have been clearer to follow than the last one (now that I know what a terminal is). Unfortunately, that was not the case. I do not find this intuitive at all, and it just seemed like I was running into error after error without knowing how to move forward. I could definitely feel myself getting frustrated, so I decided to put it down and I will try again from the start tomorrow. 
+
+I'm currently having the same issue as last night, but I have peanut butter cookies in the oven so it's not as frustrating. I also put it into 'Homebrew' view which makes it better. Seeking advice from computer science student Ethan Heavey.
+
+I have included the screenshot from Ethan.
+
+I tried what he suggested (hit 'esc' then type ':wq <Return>') and it said: 
+E37: No write since last change
+E162: No write since last change for buffer "task.sh"
+
+I sent a screenshot of that to Ethan and he suggested I try a different file name and to restart the vi process with it. I did and got the same pop up but with "task2.sh" (which was what I named my new file).
